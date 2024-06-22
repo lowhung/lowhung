@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**lowhung/lowhung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I’m currently working on
+- Cardano Visualizer (Preview incoming)
+- [Kaa by Snek](https://www.kaaai.io/)
 
-Here are some ideas to get you started:
+## 👾 I’m currently playing with
+- Python
+- Go
+- Neo4j
+- Chromadb
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Ask me about
+- Wind/Solar Energy
+- Cardano
+- Cryptocurrency/Web3
+- Next.js
+- Neo4j
+
+## 🌱 I’m open to
+- Open Source Projects
+- Web3 Projects
+- AI Projects
+
+## 📫 How to reach me
+- [Twitter](https://x.com/l0whung))
+- [Instagram](https://instagram.com/burritoflavouredkisses)
+- [LinkedIn](https://www.linkedin.com/in/matthounslow/)
+
+## ⚡ Fun facts
+- Chess Enthusiast
+- I love climbing things
+- Currently playing [Disco Elysium](https://zaumstudio.com/)

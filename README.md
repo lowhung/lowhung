@@ -23,7 +23,7 @@
 - AI Projects
 
 ## 📫 How to reach me
-- [Twitter](https://x.com/l0whung))
+- [Twitter](https://x.com/l0whung)
 - [Instagram](https://instagram.com/burritoflavouredkisses)
 - [LinkedIn](https://www.linkedin.com/in/matthounslow/)
 

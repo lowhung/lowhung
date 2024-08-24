@@ -3,6 +3,7 @@
 ## 🔭 I’m currently working on
 - Cardano Visualizer (Preview incoming)
 - [Kaa by Snek](https://www.kaaai.io/)
+- [FrigidAI](https://frigid.ai/)
 
 ## 👾 I’m currently playing with
 - Python
@@ -30,4 +31,4 @@
 ## ⚡ Fun facts
 - Chess Enthusiast
 - I love climbing things
-- Currently playing [Disco Elysium](https://zaumstudio.com/)
+- Currently playing [Cuphead](https://www.cupheadgame.com/)

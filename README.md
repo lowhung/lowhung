@@ -2,8 +2,8 @@
 
 ## 🔭 I’m currently working on
 - Cardano Visualizer (Preview incoming)
-- [Kaa by Snek](https://www.kaaai.io/)
-- [FrigidAI](https://frigid.ai/)
+- Lead Developer on [Kaa by Snek](https://www.kaaai.io/)
+- Data Eng @ [FrigidAI](https://frigid.ai/)
 
 ## 👾 I’m currently playing with
 - Python

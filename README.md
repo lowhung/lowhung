@@ -6,6 +6,8 @@
 - Data Eng @ [FrigidAI](https://frigid.ai/)
 
 ## 👾 I’m currently playing with
+- Aiken & MeshJS
+- Smart Contracts
 - Python
 - Go
 - Neo4j

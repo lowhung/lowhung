@@ -1,6 +1,6 @@
 # Hunglow (Matt Hounslow)
 
-<h4 align="center">Wind/Solar Energy • Cardano • Web3 • Data Engineering</h4>
+<h4 align="center">Cardano • Web3 • Machine Learning • Data Engineering • Renewables </h4>
 
 <p align="center">
     <a href="https://x.com/l0whung" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-@l0whung-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://x.com/l0whung"></a>

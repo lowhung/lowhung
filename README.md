@@ -13,9 +13,10 @@
 <hr/>
 
 ### Currently working on...
-- Cardano Visualizer (Preview incoming)
-- Lead Developer@[Kaa by Snek](https://www.kaaai.io/)
-- Data Engineering@[FrigidAI](https://frigid.ai/)
+- Cardano Visualizer
+- Lead Developer @ [Kaa by Snek](https://www.kaaai.io/)
+- Data Engineering @ [FrigidAI](https://frigid.ai/)
+- AI Smart Contract Auditing
 
 ### Currently playing with...
 - [Aiken](aiken-lang.org)

@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/matthounslow/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-@matthounslow-%230077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matthounslow/"></a>
 </p>
 
----
+<hr/>
 
 ### Currently working on...
 - Cardano Visualizer (Preview incoming)

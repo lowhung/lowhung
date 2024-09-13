@@ -18,10 +18,10 @@
 - Data Engineering @ [FrigidAI](https://frigid.ai/)
 
 ### Currently playing with...
-- [Aiken] (aiken-lang.org)
-- [MeshJS] (https://meshjs.dev/)
-- [Neo4j] (neo4j.com)
-- [Chroma] (https://www.trychroma.com/)
+- [Aiken](aiken-lang.org)
+- [MeshJS](https://meshjs.dev/)
+- [Neo4j](neo4j.com)
+- [Chroma](https://www.trychroma.com/)
 
 ### I'm open to...
 - Open Source Projects

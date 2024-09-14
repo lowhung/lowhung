@@ -16,13 +16,7 @@
 - Cardano Visualizer
 - Lead Developer @ [Kaa by Snek](https://www.kaaai.io/)
 - Data Engineering @ [FrigidAI](https://frigid.ai/)
-- AI Smart Contract Auditing
-
-### Currently playing with...
-- [Aiken](aiken-lang.org)
-- [MeshJS](https://meshjs.dev/)
-- [Neo4j](neo4j.com)
-- [Chroma](https://www.trychroma.com/)
+- Smart Contracts with [Aiken](aiken-lang.org)
 
 ### I'm open to...
 - Open Source Projects

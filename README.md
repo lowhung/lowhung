@@ -13,7 +13,7 @@
 <hr/>
 
 ### Currently working on...
-- Cardano Visualizer (Algalon Labs)
+- Founder [Algalon Labs](https://github.com/AlgalonLabs)
 - Lead Developer @ [Kaa by Snek](https://www.kaaai.io/)
 - Data Engineering @ [FrigidAI](https://frigid.ai/)
 - Smart Contracts with [Aiken](aiken-lang.org)

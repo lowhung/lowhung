@@ -13,10 +13,10 @@
 <hr/>
 
 ### Currently working on...
-- [Algalon Labs](https://github.com/AlgalonLabs)
+- Building [Algalon Labs](https://github.com/AlgalonLabs)
 - Developer @ [Kaa by Snek](https://www.kaaai.io/)
 - Data Engineering @ [FrigidAI](https://frigid.ai/)
-- Smart Contracts with [Aiken](aiken-lang.org)
+- Learning Smart Contracts with [Aiken](aiken-lang.org)
 
 ### I'm open to...
 - Open Source Projects

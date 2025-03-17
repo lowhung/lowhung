@@ -25,4 +25,5 @@
 ### Fun facts
 - Chess Enthusiast
 - I love climbing things
+- Reading Wind & Truth by Brandon Sanderson
 - Currently playing [Cuphead](https://www.cupheadgame.com/)

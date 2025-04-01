@@ -13,6 +13,7 @@
 
 ### Currently working on...
 - Building [Algalon Labs](https://github.com/AlgalonLabs)
+- [Chart Sayer](https://github.com/lowhung/chart-sayer)
 - Developer @ [Kaa by Snek](https://www.kaaai.io/)
 - Data Engineering @ [FrigidAI](https://frigid.ai/)
 - Learning Smart Contracts with [Aiken](aiken-lang.org)

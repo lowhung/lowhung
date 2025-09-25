@@ -1,5 +1,5 @@
 <h1 align="center">
-   Matt Hounslow ($algalon)
+   Matt Hounslow (lowhung / $algalon)
 </h1>
 
 <h4 align="center">Cardano • Web3 • Machine Learning • Data Engineering • Renewables </h4>

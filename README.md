@@ -1,5 +1,5 @@
 <h1 align="center">
-   Matt Hounslow (Hunglow)
+   Matt Hounslow ($algalon)
 </h1>
 
 <h4 align="center">Cardano • Web3 • Machine Learning • Data Engineering • Renewables </h4>
@@ -12,11 +12,10 @@
 <hr/>
 
 ### Currently working on...
+- Data Engineering @ [FrigidAI](https://frigid.ai/)
+- Software Developer @ [Sundae Labs](https://sundae.fi/)
 - Building [Algalon Labs](https://github.com/AlgalonLabs)
 - [Chart Sayer](https://github.com/lowhung/chart-sayer)
-- Developer @ [Kaa by Snek](https://www.kaaai.io/)
-- Data Engineering @ [FrigidAI](https://frigid.ai/)
-- Learning Smart Contracts with [Aiken](aiken-lang.org)
 
 ### I'm open to...
 - Open Source Projects
@@ -27,4 +26,4 @@
 - Chess Enthusiast
 - I love climbing things
 - Reading Wind & Truth by Brandon Sanderson
-- Currently playing [Cuphead](https://www.cupheadgame.com/)
+- Currently playing [Hollow Knight]([https://www.cupheadgame.com/](https://store.steampowered.com/app/367520/Hollow_Knight/))

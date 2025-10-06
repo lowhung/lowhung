@@ -12,8 +12,8 @@
 <hr/>
 
 ### Currently working on...
-- Previously Data Engineer @ [FrigidAI](https://frigid.ai/)
 - Software Developer @ [Sundae Labs](https://sundae.fi/)
+- Previously Data Engineer @ [FrigidAI](https://frigid.ai/)
 - Building [Algalon Labs](https://github.com/AlgalonLabs)
 - [Chart Sayer](https://github.com/lowhung/chart-sayer)
 

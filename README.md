@@ -18,11 +18,6 @@
 - [Chart Sayer](https://github.com/lowhung/chart-sayer)
 - Physics simulations
 
-### I'm open to...
-- Open Source Projects
-- Web3 Projects
-- AI Projects
-
 ### Fun facts
 - Chess Enthusiast
 - I love climbing things

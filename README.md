@@ -19,7 +19,7 @@
 - Physics simulations
 
 ### Fun facts
-- Chess Enthusiast
+- Chess enthusiast
 - I love climbing things
 - Reading Wind & Truth by Brandon Sanderson
 - Currently playing [Hollow Knight]([https://www.cupheadgame.com/](https://store.steampowered.com/app/367520/Hollow_Knight/))

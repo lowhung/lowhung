@@ -20,6 +20,7 @@
 - building at [Sundae Labs](https://sundae.fi/)
 - previously data engineering at [FrigidAI](https://frigid.ai/)
 - messing with physics simulations
+- building the [Acropolis node](https://github.com/input-output-hk/acropolis)
 
 ## /side_quests
 

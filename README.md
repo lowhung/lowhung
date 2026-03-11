@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/l0whung">x</a> ·
+  <a href="https://x.com/loregrammer">x</a> ·
   <a href="https://www.linkedin.com/in/matthounslow/">linkedin</a> ·
   <a href="https://github.com/AlgalonLabs">algalon labs</a> ·
   <a href="https://matthounslow.dev">personal</a>

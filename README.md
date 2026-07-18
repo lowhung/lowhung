@@ -26,12 +26,5 @@
 
 - chess
 - climbing things
-- reading *Wind and Truth*
+- reading *The Wise Man's Fear*
 - playing [Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/)
-
-<p align="center">
-  <a href="https://github.com/lowhung">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lowhung&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lowhung&layout=compact&langs_count=8&theme=dark"/>
-  </a>
-</p>

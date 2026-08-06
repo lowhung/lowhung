@@ -18,7 +18,7 @@
 ## /now
 
 - building at [Sundae Labs](https://sundae.fi/)
-- Building compiler QA, LSP tooling, and multi-network end-to-end infrastructure for [Compact](https://github.com/LFDT-Minokawa/compact), Midnight's privacy-preserving smart-contract language, with [Shielded](https://www.shielded.io/)
+- [QAing Compact](https://github.com/LFDT-Minokawa/compact), privacy-preserving smart-contract language, with [Shielded](https://www.shielded.io/)
 - previously data engineering at [FrigidAI](https://frigid.ai/)
 - messing with physics simulations
 - building the [Acropolis node](https://github.com/input-output-hk/acropolis)
